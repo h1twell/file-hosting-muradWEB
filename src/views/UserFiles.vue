@@ -13,7 +13,7 @@ export default {
 
 <style scoped>
 h1, h2, h3, h4, h5, h6 {
-  color: black; /* черный цвет текста */
-  font-size: 30px; /* размер шрифта 30px */
+  color: blue; /* черный цвет текста */
+  font-size: 35px; /* размер шрифта 30px */
 }
 </style>

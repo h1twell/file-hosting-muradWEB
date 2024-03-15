@@ -121,13 +121,13 @@ button {
   padding: 10px;
   border: none;
   border-radius: 5px;
-  background-color: #f3a0ae;
+  background-color: #f32123;
   color: #fff;
   cursor: pointer;
   transition: background-color 0.3s;
 }
 
 button:hover {
-  background-color: #ff6b7a;
+  background-color: #f32123;
 }
 </style>
